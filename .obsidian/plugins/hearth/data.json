@@ -1,0 +1,172 @@
+{
+  "title": "Obsidian",
+  "showTitle": true,
+  "titleIcon": "👾",
+  "tabIcon": "",
+  "themeColorTarget": "none",
+  "showSearch": true,
+  "searchPlaceholder": "Search or command",
+  "showNewNoteButton": true,
+  "newNoteButtonMode": "newNote",
+  "newNoteButtonLabel": "",
+  "newNoteTemplate": "",
+  "newNoteFolder": "",
+  "newNoteFilename": "",
+  "searchContents": true,
+  "searchEngine": "builtin",
+  "backgroundKind": "none",
+  "backgroundValue": "",
+  "backgroundOpacity": 0.8,
+  "backgroundBlur": 2,
+  "backgroundLayout": "full",
+  "bannerHeight": 220,
+  "bannerFade": true,
+  "bannerFullWidth": false,
+  "openOnStartup": true,
+  "replaceNewTabs": true,
+  "focusSearchOnOpen": false,
+  "liveRefresh": false,
+  "mobileSearchOnly": false,
+  "showMobileActionBar": true,
+  "mobileActionButtons": [
+    {
+      "id": "action-new-note",
+      "label": "New note",
+      "icon": "plus",
+      "type": "command",
+      "target": "hearth:new-note"
+    },
+    {
+      "id": "action-new-drawing",
+      "label": "New drawing",
+      "icon": "pen-tool",
+      "type": "command",
+      "target": "hearth:new-drawing"
+    },
+    {
+      "id": "action-record-voice",
+      "label": "Record voice",
+      "icon": "mic",
+      "type": "command",
+      "target": "hearth:record-voice"
+    },
+    {
+      "id": "action-daily-note",
+      "label": "Daily note",
+      "icon": "calendar",
+      "type": "command",
+      "target": "hearth:open-daily-note"
+    }
+  ],
+  "stackOnNarrow": true,
+  "disableExternalCalls": false,
+  "openIn": "tab",
+  "openInOverrides": {
+    "link": "default",
+    "search": "default",
+    "card": "default",
+    "newNote": "default"
+  },
+  "openFromOutside": "same",
+  "performanceTier": "full",
+  "mobilePerformanceTier": "balanced",
+  "lowPowerBackgroundColor": "#4a4459",
+  "pauseWhenUnfocused": true,
+  "compact": false,
+  "arrangeButtonVisibility": "always",
+  "dashboardSwitcherVisibility": "always",
+  "cardOpacity": 0.5,
+  "cardBlur": 7,
+  "cardRadius": 14,
+  "cardBorderWidth": 1,
+  "hiddenFilters": [],
+  "dashboards": [
+    {
+      "id": "dash-mrqjhc2x-8657",
+      "name": "Dashboard 1",
+      "cards": [
+        {
+          "id": "card-clock",
+          "kind": "clock",
+          "title": "",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 3,
+          "fx": 0,
+          "fw": 0.49379652605459057,
+          "fy": 0,
+          "fh": 169,
+          "clock": {
+            "showSeconds": true,
+            "hourFormat": "12"
+          }
+        },
+        {
+          "id": "card-stats",
+          "kind": "stats",
+          "title": "",
+          "x": 7,
+          "y": 9,
+          "w": 5,
+          "h": 4,
+          "fx": 0.5066666666666667,
+          "fw": 0.49333333333333335,
+          "fy": 0,
+          "fh": 169
+        },
+        {
+          "id": "card-mrqjqfyb-1996",
+          "x": 0,
+          "y": 1,
+          "kind": "heatmap",
+          "title": "",
+          "heatmap": {},
+          "w": 6,
+          "h": 3,
+          "fx": 0,
+          "fy": 185,
+          "fw": 0.7533333333333333,
+          "fh": 298,
+          "mobile": {
+            "height": 189
+          }
+        },
+        {
+          "id": "card-mshs08ct-8179",
+          "x": 0,
+          "y": 1,
+          "kind": "tasks",
+          "title": "",
+          "tasks": {},
+          "w": 4,
+          "h": 4,
+          "fx": 0.7666666666666667,
+          "fy": 185,
+          "fw": 0.23333333333333334,
+          "fh": 298
+        }
+      ]
+    }
+  ],
+  "activeDashboardId": "dash-mrqjhc2x-8657",
+  "pinnedCards": [],
+  "gridColumns": 12,
+  "rowHeight": 92,
+  "favorites": [],
+  "fitToPage": true,
+  "taskNotesStatusField": "status",
+  "taskNotesDueField": "due",
+  "taskNotesPriorityField": "priority",
+  "taskNotesDoneValue": "done",
+  "taskFieldsEnabled": false,
+  "taskFields": [],
+  "customFileIcons": true,
+  "iconizeIconProperty": "icon",
+  "operonIntegration": true,
+  "operonWrites": false,
+  "maxWidth": 1600,
+  "fullWidth": false,
+  "lastSeenVersion": "3.0.0",
+  "setupStatus": "done"
+}

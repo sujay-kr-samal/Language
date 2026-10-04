@@ -1,0 +1,11 @@
+{
+	"id": "hearth",
+	"name": "Hearth",
+	"version": "3.0.0",
+	"minAppVersion": "1.8.7",
+	"description": "A beautiful, customizable home screen for your vault — search, dashboard, and launcher in one.",
+	"author": "ondreu",
+	"authorUrl": "https://github.com/ondreu",
+	"fundingUrl": "https://ko-fi.com/B7K822EW68",
+	"isDesktopOnly": false
+}
