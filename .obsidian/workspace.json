@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "The Idea"
             }
+          },
+          {
+            "id": "70c1cc9aaad8ffc4",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,8 +232,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbfac4b977dd08fb",
+  "active": "70c1cc9aaad8ffc4",
   "lastOpenFiles": [
+    "Documentation/Language/The Idea.md",
+    "Documentation/Language/File Reader.md",
     "Language/README.md",
     "Language/parser.h",
     "Language/Parser.h",
@@ -235,7 +248,6 @@
     "Language/FileReader.c",
     "Language/divine",
     "Documentation/Language/cover.png",
-    "Documentation/Language/The Idea.md",
     "2026-10-05.md",
     "Book/Language/How I Made My Own Programming Language In C.md",
     "Untitled.md",
