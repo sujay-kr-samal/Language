@@ -98,8 +98,7 @@
           "fy": 0,
           "fh": 169,
           "clock": {
-            "showSeconds": true,
-            "hourFormat": "12"
+            "showSeconds": true
           }
         },
         {

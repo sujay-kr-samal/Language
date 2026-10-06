@@ -1,6 +1,7 @@
 {
-  "accentColor": "#ffffff",
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "",
-  "theme": "system"
+  "cssTheme": "",
+  "nativeMenus": false,
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "accentColor": "#ffb570"
 }

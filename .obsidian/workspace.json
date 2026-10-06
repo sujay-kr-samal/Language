@@ -1,56 +1,111 @@
 {
   "main": {
-    "id": "7222d74e023624c0",
+    "id": "3a22200cfaf67b65",
     "type": "split",
     "children": [
       {
-        "id": "ae533ddb75938e79",
+        "id": "3b894fcff56b14d2",
         "type": "tabs",
         "children": [
           {
-            "id": "51992d97a1daafa1",
+            "id": "f1025546b0304933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Language/The Idea.md",
+                "file": "RUST/Notes/The Hello World -- Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Idea"
+              "title": "The Hello World -- Rust"
             }
           },
           {
-            "id": "70c1cc9aaad8ffc4",
+            "id": "9808f0e8aae65a37",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ac344adffa98c368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/Language/The File Reader.md",
+                "file": "RUST/Notes/Hello, Cargo!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The File Reader"
+              "title": "Hello, Cargo!"
+            }
+          },
+          {
+            "id": "49b779b965df55ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "28729eaef9e9b192",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c528e98450d27d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Notes/Conditional Statements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conditional Statements"
+            }
+          },
+          {
+            "id": "634303d1a752b396",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "37059d25b9f51126",
+    "id": "04be413b7fa7bac3",
     "type": "split",
     "children": [
       {
-        "id": "7d5e1aab3e6f76e7",
+        "id": "6a99b9a853a0dda9",
         "type": "tabs",
+        "dimension": 63.07692307692307,
         "children": [
           {
-            "id": "dbfac4b977dd08fb",
+            "id": "5f7ba848509a4c76",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +120,7 @@
             }
           },
           {
-            "id": "d51b85365596ff29",
+            "id": "3e2d53b3caa831fd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +137,7 @@
             }
           },
           {
-            "id": "fcf8f9e8eecf8df3",
+            "id": "9d7abc05e52c0c56",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,27 +150,44 @@
             }
           }
         ]
+      },
+      {
+        "id": "c13230721cc09c40",
+        "type": "tabs",
+        "dimension": 36.92307692307693,
+        "children": [
+          {
+            "id": "3abc56db4d090fc6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.08203125
   },
   "right": {
-    "id": "e9e528140bec7686",
+    "id": "0d73052207d6c534",
     "type": "split",
     "children": [
       {
-        "id": "acc1f9339a1b7e21",
+        "id": "fbe3f0d80004230d",
         "type": "tabs",
-        "dimension": 66.43968871595331,
+        "dimension": 66.30648330058939,
         "children": [
           {
-            "id": "c9506e91168e5e68",
+            "id": "db7d232168858886",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Language/The Idea.md",
+                "file": "JAVA/How Java Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,25 +197,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for How Java Works"
             }
           },
           {
-            "id": "4da2bb8c0b0a24ed",
+            "id": "a68c52890a5757da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hey.md",
+                "file": "JAVA/How Java Works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from How Java Works"
             }
           },
           {
-            "id": "1ae3a0b7ecc283ad",
+            "id": "5394b91b90aa8a18",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,7 +230,7 @@
             }
           },
           {
-            "id": "f7a8de6140ae7ca8",
+            "id": "47498400b12bd5b6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -172,12 +244,12 @@
             }
           },
           {
-            "id": "b7831136eef7c5fc",
+            "id": "f0a4cf578b318248",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation/Language/The Idea.md",
+                "file": "JAVA/Switch Statement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,13 +259,11 @@
             }
           },
           {
-            "id": "e99d16b71ddf21cc",
+            "id": "3528aa7605e63024",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
-              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
@@ -202,12 +272,12 @@
         "currentTab": 5
       },
       {
-        "id": "f85010f08fb9ebd2",
+        "id": "595bead2fa8d483a",
         "type": "tabs",
-        "dimension": 33.56031128404669,
+        "dimension": 33.69351669941061,
         "children": [
           {
-            "id": "5ab4d872b82d26ee",
+            "id": "a639164c8dfc2527",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -220,49 +290,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.6015625
+    "width": 260.1796875
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-book-search-plugin:Create new book note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "hearth:Open Hearth home": false,
       "vscode-editor:Create Code File": false,
-      "daily-notes:Open today's daily note": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70c1cc9aaad8ffc4",
+  "active": "634303d1a752b396",
   "lastOpenFiles": [
-    "Documentation/Language/The Idea.md",
-    "Documentation/Language/The File Reader.md",
-    "Documentation/Language/File Reader.md",
-    "Language/README.md",
-    "Language/parser.h",
-    "Language/Parser.h",
-    "Language/Parser.c",
-    "Language/main.c",
-    "Language/Lexer.h",
-    "Language/Lexer.c",
-    "Language/Interpreter.h",
-    "Language/Interpreter.c",
-    "Language/FileReader.c",
-    "Language/divine",
-    "Documentation/Language/cover.png",
-    "2026-10-05.md",
-    "Book/Language/How I Made My Own Programming Language In C.md",
+    "Untitled.base",
     "Untitled.md",
-    "Book/Untitled.md",
-    "BookShelf.md",
-    "Book/The Idea.md",
-    "Language/Book/1stpage.png",
-    "Book/cover.png",
-    "Language/Book/Untitled.canvas",
-    "Welcome.md",
-    "hey.md"
+    "2026-09-05.md",
+    "Web_Dev",
+    "JAVA/Notes/Conditional Statements.md",
+    "JAVA/practice/calculator.java",
+    "Assembly/Logic Gates.md",
+    "Assembly",
+    "JAVA/Notes/For loop.md",
+    "RUST/codes/hello_cargo/target/debug/incremental",
+    "RUST/codes/hello_cargo/target/debug/examples",
+    "RUST/codes/hello_cargo/target/debug/deps",
+    "RUST/codes/hello_cargo/target/debug/build",
+    "RUST/codes/hello_cargo/target/debug",
+    "RUST/codes/hello_cargo/target/CACHEDIR.TAG",
+    "RUST/codes/hello_cargo/target",
+    "RUST/Notes/Hello, Cargo!.md",
+    "RUST/Notes/The Hello World -- Rust.md",
+    "RUST/codes/HelloWorld.md",
+    "JAVA/Notes/Class & Object.md",
+    "JAVA/Notes/Ternary Operator.md",
+    "JAVA/Notes/Type Conversion & Type Casting.md",
+    "JAVA/Notes/How Java Works.md",
+    "JAVA/Notes/While loop.md",
+    "JAVA/Notes/Variables & Data Types.md",
+    "JAVA/Notes/Switch Statement.md",
+    "JAVA/Notes/Logical Operators.md",
+    "JAVA/Notes/do-while loop.md",
+    "JAVA/Notes/Arithmetic Operators.md",
+    "JAVA/Conditional Statements.md",
+    "JAVA/Class & Object.md",
+    "JAVA/Type Conversion & Type Casting.md",
+    "JAVA/Arithmetic Operators.md",
+    "Projects DB.md",
+    "2026-08-05.md",
+    "JAVA/Switch Statement.md",
+    "Chemistry/Physical/Electrochemistry/assets/galvanic_cell.jpg",
+    "Chemistry/Physical/Electrochemistry/assets/electrode.jpg",
+    "Untitled.canvas"
   ]
 }
